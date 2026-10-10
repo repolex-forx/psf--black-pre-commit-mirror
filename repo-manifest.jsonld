@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/black-pre-commit-mirror/commit/a5439e9af2ff9371297bb1a76a01b8ad17989b88",
       "git:hexsha": "a5439e9af2ff9371297bb1a76a01b8ad17989b88",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "26.10.1"
     },
     {
