@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/psf/black-pre-commit-mirror/commit/a5439e9af2ff9371297bb1a76a01b8ad17989b88",
       "git:hexsha": "a5439e9af2ff9371297bb1a76a01b8ad17989b88",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "26.10.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "26.10.1",
+      "repolex:parsedAt": "2026-10-10T07:25:18.059472+00:00"
     },
     {
       "@id": "https://repolex.ai/r/psf/black-pre-commit-mirror/commit/41f1825c1a5c71803b0a0e99cbc5c5a3b0fbbe1a",
