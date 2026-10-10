@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "black-pre-commit-mirror",
+  "versions": [
+    {
+      "commit": "a5439e9af2ff9371297bb1a76a01b8ad17989b88",
+      "parsed_at": "2026-10-10T07:21:18.869870+00:00",
+      "tag": "26.10.1",
+      "filetree": "filetree/a5439e9af2ff9371297bb1a76a01b8ad17989b88.nq.gz",
+      "blobs": [
+        "blob/137957045a6c938eec1408ca9af8ba47d59f4caa.nq.gz",
+        "blob/42751296bebbec155cd0a87720ec492ad92880c9.nq.gz",
+        "blob/33dcc4d9c10e55a28eae19590785466fee9892b3.nq.gz",
+        "blob/850bcf4c38f19a5c7a4f6c03ae7d7a11010e7a57.nq.gz",
+        "blob/97f1e74dff51de79d11b43b88fae74685c6ef4ea.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
