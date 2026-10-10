@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "black-pre-commit-mirror",
+  "versions": [
+    {
+      "commit": "a5439e9af2ff9371297bb1a76a01b8ad17989b88",
+      "tag": "26.10.1",
+      "parsed_at": "2026-10-10T07:25:18.060079+00:00"
+    }
+  ]
+}
